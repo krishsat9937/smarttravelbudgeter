@@ -85,3 +85,12 @@ docker compose up -d --build
 - Users can register, log in, and manage their sessions securely.
 - Travel suggestions are fetched from **Amadeus API** and transit information from **Google Maps API**.
 - Data is cached for 5 minutes to improve performance and reduce API load.
+
+## **Screenshots**
+
+<img width="512" height="268" alt="smart1" src="https://github.com/user-attachments/assets/9d36d8ad-467b-40e8-8f99-55881f0a6656" />
+<img width="512" height="313" alt="smart2" src="https://github.com/user-attachments/assets/9f7ff3f8-6303-4aae-bb99-8947d5ad39a1" />
+<img width="512" height="313" alt="smart3" src="https://github.com/user-attachments/assets/b3801aaf-6d6b-44d2-8a9f-9e5470e8b9da" />
+
+
+
